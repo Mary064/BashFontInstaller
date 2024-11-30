@@ -1,3 +1,4 @@
 # BashFontInstaller
-unzip
-fc-cache
+require: <br>
+unzip <br>
+fc-cache <br>
