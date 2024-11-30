@@ -1,1 +1,3 @@
 # BashFontInstaller
+unzip
+fc-cache
